@@ -1,0 +1,3 @@
+/home/hacksign/Code/slim-1.3.6/CMakeFiles/slimlock.dir
+/home/hacksign/Code/slim-1.3.6/CMakeFiles/slim.dir
+/home/hacksign/Code/slim-1.3.6/CMakeFiles/libslim.dir
